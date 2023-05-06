@@ -20,12 +20,14 @@ To deploy this web application on Elastic Beanstalk, follow these steps:
 Create a virtual environment with Flask installed. Make sure that your application is called "application.py". You can then pull up AWS and launch EBS. Once there, create a new enviornment. Select Web server environment, add the name of your application, select the Python platform with the latest version. Then, click next. Skip the rest of the steps and click on skip to review. Wait a little bit and then your environment will be up and running. Once everything is running, go to CodePipeline. Connect using GitHub. Make sure your Github account is connected to AWS. Follow the prompts on CodePipline. Skip build and go to deploy. Deploy provider-> AWS EBS, select your region, choose your application name/environment name. Create the pipeline. When done, click on your application and then click on the domain. There is your webapp! This is a live address that can be used and you can add a custom domain using Route53. Any changes made will also reflect on your webapp (CI/CD). 
 
 # Technologies used overview:
-![HTML](file:///C:/Users/beast/Desktop/Files/AWS%20Projects/ebs-calc/images/HTML.png)
-![CSS](file:///C:/Users/beast/Desktop/Files/AWS%20Projects/ebs-calc/images/CSS.png)
-![Python](file:///C:/Users/beast/Desktop/Files/AWS%20Projects/ebs-calc/images/Python.png)
-![Flask](file:///C:/Users/beast/Desktop/Files/AWS%20Projects/ebs-calc/images/Flask.png)
-![EBS](file:///C:/Users/beast/Desktop/Files/AWS%20Projects/ebs-calc/images/ebs.png)
-![GitHub](file:///C:/Users/beast/Desktop/Files/AWS%20Projects/ebs-calc/images/GitHub.png)
+# Technologies used overview:
+![HTML](./images/HTML.png)
+![CSS](./images/CSS.png)
+![Python](./images/Python.png)
+![Flask](./images/Flask.png)
+![EBS](./images/ebs.png)
+![GitHub](./images/GitHub.png)
+
 
 
 
