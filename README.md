@@ -25,6 +25,7 @@ Create a virtual environment with Flask installed. Make sure that your applicati
 ![Flask](./images/Flask.png)
 ![EBS](./images/ebs.png)
 ![GitHub](./images/GitHub.png)
+![CodePipeline](./images/CodePipeline.png)
 
 
 
