@@ -1,0 +1,12 @@
+# Python files
+*.pyc
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+
+# Dependencies
+env/
+lib/

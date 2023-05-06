@@ -1,0 +1,60 @@
+body {
+	background-color: #F6F8FA;
+	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: 600;
+	margin: 24px 0 16px;
+}
+
+form {
+	background-color: #FFFFFF;
+	border-radius: 6px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+	margin: 16px 0;
+	padding: 24px;
+}
+
+label {
+	color: #24292e;
+	display: block;
+	font-weight: 600;
+	margin-bottom: 8px;
+}
+
+input[type="number"], select {
+	border: 1px solid #CCCCCC;
+	border-radius: 3px;
+	display: block;
+	font-size: 16px;
+	margin-bottom: 16px;
+	padding: 8px;
+	width: 100%;
+}
+
+input[type="submit"] {
+	background-color: #28A745;
+	border: none;
+	border-radius: 3px;
+	color: #FFFFFF;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: 600;
+	margin-top: 16px;
+	padding: 8px 16px;
+}
+
+input[type="submit"]:hover {
+	background-color: #249d3d;
+}
+
+p {
+	font-size: 20px;
+	margin-top: 16px;
+}
